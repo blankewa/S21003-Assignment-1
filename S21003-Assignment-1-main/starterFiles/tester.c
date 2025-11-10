@@ -1,4 +1,4 @@
-//gcc ./starterFiles/tester.c -o ./starterFiles/tester.exe
+//gcc ./starterFiles/tester.c -o ./starterFiles/executables/tester.exe
 //Compile command - delete later ewan (ewan it only works 25% of the time before needing new download)
 
 
